@@ -7,7 +7,6 @@ Pictures used by the Murphy Workshop RedM resources, served by GitHub Pages:
 | murphy_creator | `creator/` | `https://levraimurphy.github.io/murphy-thumbnails/creator/` |
 | murphy_clothing | `clothing/` | `https://levraimurphy.github.io/murphy-thumbnails/clothing/` |
 | murphy_barber | `barber/` | `https://levraimurphy.github.io/murphy-thumbnails/barber/` |
-| murphy_realestate | `realestate/` | `https://levraimurphy.github.io/murphy-thumbnails/realestate/` |
 
 Each folder can also be copied to your own web server (or into the resource's `ui/thumbnails/`) and `BaseUrl` pointed there.
 
